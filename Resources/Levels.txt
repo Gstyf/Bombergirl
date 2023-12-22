@@ -1,0 +1,78 @@
+*
+Asterixes makes the script not read characters in the string, The equals signs starts the reading again. This way I can construct maps in a text editor!
+#: represent the border of a level. This symbol doesn't add anything to the game.
+P: Player. There should only be one of these.
+E: Enemy. Patrols left-right only.
+O: Box, destructible.
+W: Wall, or metal box. Indestructible
+
+Feel free to create your own level, if you feel you have the energy to.
+You can currently only load one level though. 
+Maybe in a future version I'll add more level slots..
+Anyway, level loads below the equal sign!
+=
+ ##################
+#      O           #
+#      O           #
+#      W       W   #
+# O  O W  O  O W   #
+#  E   W  E    W   #
+#WWWWWWWWWWWWWWWOOW#
+#      W           #
+#      O           #
+#      WWOOWWWWWWWW#
+# O  O W           #
+#  E   W  E        #
+#WWWWWWWWWWWWWWWOOW#
+# O            W   #
+#   W         EW   #
+#   W    O   O     #
+#   W E            #
+#W  W    O   O     #
+#  PW     E        #
+ ##################
+*
+Blank map for fresh creations. copy-paste above and add symbols as appropriate.
+ ##################
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+#                  #
+ ##################
+*
+Sample level map. Copy-paste above and add symbols as appropriate.
+ ################## 
+#    O        O    #
+#    O  E     O    #
+#  WWWWWWWWWWWWWW  #
+#  W   E        W  #
+#OOW        E   WOO#
+#  W  WWWOOWWW  W  #
+#  W  WW    WW  W  #
+#  W  W      W  W  #
+#  W      E     W  #
+#  W    E       W  #
+#  W  W      W  W  #
+#  W  WW    WW  W  #
+#  W  WWWOOWWW  W  #
+#OOW     E      WOO#
+#  W            W  #
+#  WWWOOWWWWOOWWW  #
+#     P       O    #
+#             O    #
+ ##################
+=
